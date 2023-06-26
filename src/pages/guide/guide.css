@@ -1,0 +1,17 @@
+.about
+{
+    width: 100%;
+}
+.about_img
+{
+    width: 100%;
+}
+.about_image
+{
+    width: 100%;
+    box-shadow: 0px 0px 4px 2px rgb(193, 193, 193)
+}
+.about_image:hover
+{
+    opacity: 0.6;
+}

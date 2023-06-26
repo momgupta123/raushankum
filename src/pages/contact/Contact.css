@@ -1,0 +1,28 @@
+.Contact_photo1
+{
+  box-sizing: border-box !important;
+  width: 98%;
+  margin-left:1%;
+  background-position: center;
+  margin-top: 0.6%;
+  overflow: hidden;
+}
+.about {
+    
+    min-height: 38vh;
+    width: 98% !important;
+    box-sizing: border-box !important;
+    margin-left: 1%;
+    padding: 10px;
+    background: black;
+    color: rgba(255, 255, 255, 0.8);
+  }
+
+ 
+  
+  @media (max-width: 500px) {
+    .videos::-webkit-scrollbar {
+      display: none;
+    }
+  }
+ 
